@@ -1,0 +1,2 @@
+# Kaggle_TenYearCHD_LogisticRegression
+An efficient logistic regression code to categorize patients of Coronary Heart Defect . This project categorizes patients into ailing and disease-free . It also generates a "heatmap" to depict the relation between the different features of the dataset. The code uses feature-extraction and feature-engineering to generate relevant features. It also creates a classification-report to depict the performance of the algorithm .
